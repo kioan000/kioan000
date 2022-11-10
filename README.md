@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=kioan000&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
 
 <!--
